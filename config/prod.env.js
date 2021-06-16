@@ -6,6 +6,6 @@ export default {
         name: '七橙-打造全行业都适用的在线教育系统', // 页面title
         domain: '7otech.com', // cookie作用域
         tokenName: 'OSTK', // cookie保存的名称
-        mainUrl: 'http://edu.7otech.com' // 网站域名
+        mainUrl: 'https://edu.7otech.com' // 网站域名
     }
 }
