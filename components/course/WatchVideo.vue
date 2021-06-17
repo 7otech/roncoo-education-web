@@ -255,7 +255,7 @@ export default {
       float: right;
       padding-top: 20px;
       height: 595px;
-      background-color: #333;      
+      background-color: #333;
       a {
         overflow: hidden;
         display: block;

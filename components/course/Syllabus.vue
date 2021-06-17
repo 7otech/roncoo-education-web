@@ -79,9 +79,9 @@ export default {
         })
         return false;
       }
-      
+
       this.$emit('playfunc', data)
-      
+
     }
   }
 }
